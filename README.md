@@ -1,4 +1,4 @@
-# CRMoptimize(Kaggle Nihan)
+# CRMoptimize
 Customer relationship management (CRM) is the combination of practices, strategies and technologies that companies use to manage and analyze customer interactions and data throughout the customer lifecycle.It tries to understand the customer profile of the company and to communicate according to these profiles. Moreover CRM targets to gain new customers other than existing customers
 
 Analyzes on customers, finding audiences belonging to certain behaviors and organizing campaigns suitable for that audienceWith CRM software, the customer feels special, so dependency occurs for the company or product.In this study, we will create CRM by making RFM and then CLTV.
